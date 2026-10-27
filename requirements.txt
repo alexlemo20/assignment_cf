@@ -1,0 +1,12 @@
+pyspark
+pandas
+numpy
+matplotlib
+pyarrow
+ipykernel
+scipy>=1.13
+seaborn
+scikit-learn>=1.5
+xgboost
+torch
+tqdm
